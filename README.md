@@ -1,2 +1,2 @@
-# myfont-awesome-demo
-myfont-awesome-demo
+# portafolio personal 
+learning font-awesome 
